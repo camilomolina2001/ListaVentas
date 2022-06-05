@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
+
+<ListaVentas>
+    <Venta>
+        <Importe>5000</Importe>
+        <Comprador>Andres</Comprador>
+        <Vendedor>Mary</Vendedor>
+        <Fecha>5/06/22</Fecha>
+        <CodigoFactura>F01</CodigoFactura>
+    </Venta>
+
+    <Venta>
+        <Importe>2500</Importe>
+        <Comprador>Daniela</Comprador>
+        <Vendedor>Luis</Vendedor>
+        <CodigoFactura>F02</CodigoFactura>
+    </Venta>
+</ListaVentas>
